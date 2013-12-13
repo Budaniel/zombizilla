@@ -1,0 +1,13 @@
+author: Budaniel
+database: false
+description: Creates a Godzilla-sized terror
+generator: http://dinnerbone.com/minecraft/tools/pluginator/
+main: io.github.Budaniel.zombizilla
+name: zombizilla
+startup: postworld
+version: '1.0'
+permissions:
+  zombizilla.*:
+commands:
+  callzombizilla:
+    description: Calls Zombizilla
